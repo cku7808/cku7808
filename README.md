@@ -1,5 +1,8 @@
 <div align="center">
-  <img>
+    <img src="https://user-images.githubusercontent.com/66200628/181039624-0ac2ff50-9f6e-4de2-a4d8-65fd693c3bd2.jpg" width="400" height="400">
+</div>
+<hr>
+<div align="center" style="display:inline-block;">
   <h2>🎈Tech Stacks🎈</h2>
   <h4>💻Techs I've used at least once</h4>
   
