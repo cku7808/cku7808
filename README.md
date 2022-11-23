@@ -1,6 +1,15 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/66200628/181039624-0ac2ff50-9f6e-4de2-a4d8-65fd693c3bd2.jpg" width="300" height="300">
-</div>
+    
+<br><br>
+    
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cku7808)](https://solved.ac/cku7808)
+    
+    
+</div>    
+
+  
 
 <hr>
 <div align="center" style="display:inline-block;">
@@ -12,9 +21,7 @@
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/><br>
 <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/><br>
 <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cku7808)](https://solved.ac/cku7808)
-    
+  
 </div>
 
 
