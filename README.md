@@ -1,17 +1,8 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/66200628/181039624-0ac2ff50-9f6e-4de2-a4d8-65fd693c3bd2.jpg" width="300" height="300">
-    
-<br><br>
-    
-    
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cku7808)](https://solved.ac/cku7808)
-    
-    
-</div>    
+ 
 
   
 
-<hr>
+
 <div align="center" style="display:inline-block;">
   <h2>🎈Tech Stacks🎈</h2>
   <h4>💻Techs I've used at least once</h4>
@@ -25,3 +16,10 @@
 </div>
 
 
+<div align="center">
+
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cku7808)](https://solved.ac/cku7808)
+    
+    
+</div>   
