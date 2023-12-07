@@ -6,12 +6,18 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cku7808)](https://solved.ac/cku7808)
 ![Gowoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cku7808&show_icons=true&theme=gruvbox)
 
+
+
 <div style="display:inline-block;">
+  <h2>📱Contact</h2>
+  <img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <img alt="naver" src ="https://img.shields.io/badge/naver_mail-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/>
+ 
   <h2>💻Dev Blog</h2>
   <a href="https://velog.io/@cku7808"><img alt="Velog" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cku7808)](https://github.com/cku7808//velog-readme-stats)
-  <br><br>
+  <br>
   <h2>👊Skills</h2>
   <h4>Languages</h4>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
