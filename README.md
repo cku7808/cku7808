@@ -1,5 +1,5 @@
  
-<h1>Choi Gowoon</h1>
+<h1>HI, I'm Gowoon😄</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcku7808&count_bg=%23FFD47C&title_bg=%23FBAC2D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -12,7 +12,7 @@
  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cku7808)](https://github.com/cku7808//velog-readme-stats)
   <br><br>
-  <h2>Skills</h2>
+  <h2>👊Skills</h2>
   <h4>Languages</h4>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="C%23" src ="https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=C%23&logoColor=white"/>
