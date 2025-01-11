@@ -3,15 +3,24 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcku7808&count_bg=%23FFD47C&title_bg=%23FBAC2D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/cku7808?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/cku7808?pet-id=665854491581135042"
+    width="600"
+    height="120"
+  />
 </a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cku7808)](https://solved.ac/cku7808)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/cku7808"/>
-</a> 
+   <img
+     src="https://render.gitanimals.org/farms/cku7808"
+     width="600"
+     height="300"
+   />
+</a>
 
 
 <div style="display:inline-block;">
